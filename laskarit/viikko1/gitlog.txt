@@ -1,0 +1,113 @@
+commit 01330562c37b0d0247fa7024c0638537e15a2985
+Author: Matias <matiaswpartanen@gmail.com>
+Date:   Tue Mar 23 12:27:22 2021 +0200
+
+    Uudelleennimeys ja poisto
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit d22c000d5db5bcf6372fc5c0b10ebed98a07df08
+Author: Matias <matiaswpartanen@gmail.com>
+Date:   Tue Mar 23 12:24:06 2021 +0200
+
+    lisätty hakemisto ja tiedostoja
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 826ecb4fa11364eb83bef53e85d0569e13bd194a
+Author: Matias <matiaswpartanen@gmail.com>
+Date:   Tue Mar 23 12:18:38 2021 +0200
+
+    Eka ja kolmas muutettu
+
+ eka.txt    | 19 +++++++------------
+ kolmas.txt |  5 ++++-
+ 2 files changed, 11 insertions(+), 13 deletions(-)
+
+commit d1379eef64641b2593892d25e91740f8f91529ed
+Author: Matias <matiaswpartanen@gmail.com>
+Date:   Tue Mar 23 12:15:28 2021 +0200
+
+    Uudelleennimetty tiedosto.txt
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 2e84955ecb9a07aae983c9d98ddb26a331bbd167
+Author: Matias <matiaswpartanen@gmail.com>
+Date:   Tue Mar 23 12:14:18 2021 +0200
+
+    Toinen poistettu
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 0d75bd2b15db0011f17cedac3b6489c88cb1d61a
+Author: Matias <matiaswpartanen@gmail.com>
+Date:   Tue Mar 23 12:10:39 2021 +0200
+
+    Muokattu tiedosto.txt
+
+ tiedosto.txt | 30 +++++++++++++++++++-----------
+ 1 file changed, 19 insertions(+), 11 deletions(-)
+
+commit b274dee87a23cc6a7d36e6ec1b22e0d472ac2553
+Author: Matias <matiaswpartanen@gmail.com>
+Date:   Tue Mar 23 12:08:39 2021 +0200
+
+    Lisätty paljon tekstiä
+
+ tiedosto.txt | 34 ++++++++++++++++++++++++++++++++++
+ 1 file changed, 34 insertions(+)
+
+commit b35f2cd3c6254c2e5991c5d4bc190666e981e0c0
+Author: Matias <matiaswpartanen@gmail.com>
+Date:   Tue Mar 23 12:04:58 2021 +0200
+
+    luotu stuff
+
+ stuff/tiedostojep.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit dfd8a6714c253b83bc462dfc5468ab7b68ad5f91
+Author: Matias <matiaswpartanen@gmail.com>
+Date:   Tue Mar 23 12:03:28 2021 +0200
+
+    muokattu toka ja kolmas
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit f9ad508c5efc614e6daacb582cf4b08dc9646ab9
+Author: Matias <matiaswpartanen@gmail.com>
+Date:   Tue Mar 23 12:02:34 2021 +0200
+
+    kolmas luotu
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 310152d8f9ba3d9f753e802443e5a172f4353ad2
+Author: Matias <matiaswpartanen@gmail.com>
+Date:   Tue Mar 23 12:00:14 2021 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 5e515c5cf05bb2ab95abff7b6fd5fa6edf500679
+Author: Matias <matiaswpartanen@gmail.com>
+Date:   Tue Mar 23 11:57:58 2021 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
