@@ -4,7 +4,7 @@
 
 #### Viikko 1
 
-Alla on **ensimmäisen** viikon *tehtävät*
+Alla on linkit **ensimmäisen** viikon *laskareihin*
 
 [gitlog.txt](https://github.com/matiaswp/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
 
