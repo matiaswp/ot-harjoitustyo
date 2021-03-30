@@ -1,13 +1,17 @@
 # Ohjelmistotekniikka 2021 kevät, harjoitustyö
 
-### Tehtävät
+### Exercises
 
-#### Viikko 1
+#### Week 1
 
-Alla on linkit **ensimmäisen** viikon *laskareihin*
+Below are the links for the **first** week's *exercises*
 
 [gitlog.txt](https://github.com/matiaswp/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
 
 [komentorivi.txt](https://github.com/matiaswp/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
 
 
+
+[Vaatimusmäärittely](https://github.com/matiaswp/ot-harjoitustyo/blob/master/documentation/requirement_specification.md)
+
+[Työtuntikirjanpito](https://github.com/matiaswp/ot-harjoitustyo/blob/master/documentation/workhours.md)
