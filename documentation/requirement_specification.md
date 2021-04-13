@@ -10,7 +10,7 @@ You can play the game of [Yahtzee](https://en.wikipedia.org/wiki/Yahtzee) with u
   + You can enter custom names for players
 + View local highscores of players
   + Ability to delete highscores
-  + You can search a certain player's top 3 highscores
+  + You can view local top 20 highscores
 #### Ingame features
 + Scoreboard
   + Shows the current state of the game
@@ -19,5 +19,5 @@ You can play the game of [Yahtzee](https://en.wikipedia.org/wiki/Yahtzee) with u
 + Ability to throw a virtual dice
   + You can also use real dice
 + Automatic score calculation
-+ Automatically saves highscores locally for players if the score reaches their top 3
++ Automatically saves highscores locally for players
 + You can reset the game by pressing a button
