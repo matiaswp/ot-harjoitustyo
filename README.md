@@ -1,17 +1,8 @@
-# Ohjelmistotekniikka 2021 kevät, harjoitustyö
+# Yahtzee app
+An application for playing the game of Yahtzee. Supports local multiplayer, highscore saving, virtual dice ~~which you can blame for getting bad scores~~ and as a bonus, gives you a really good ~~or bad~~ time with your friends!  
 
-### Exercises
+### Requires python version 3.6.0 or higher
 
-#### Week 1
-
-Below are the links for the **first** week's *exercises*
-
-[gitlog.txt](https://github.com/matiaswp/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
-
-[komentorivi.txt](https://github.com/matiaswp/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
-
-
-
-[Vaatimusmäärittely](https://github.com/matiaswp/ot-harjoitustyo/blob/master/documentation/requirement_specification.md)
-
-[Työtuntikirjanpito](https://github.com/matiaswp/ot-harjoitustyo/blob/master/documentation/workhours.md)
+## Documentation
++ [Requirement specification](https://github.com/matiaswp/ot-harjoitustyo/blob/master/documentation/requirement_specification.md)
++ [Workhours](https://github.com/matiaswp/ot-harjoitustyo/blob/master/documentation/workhours.md)
