@@ -1,0 +1,3 @@
+data/database.sql
+src/__pycache__
+src/repositories/__pycache__
